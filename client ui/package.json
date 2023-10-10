@@ -1,0 +1,15 @@
+{
+  "name": "iptv-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-timeout"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.11.1"
+  }
+}
